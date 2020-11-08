@@ -1,0 +1,23 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+
+    "autoload": {
+
+    	"classmap": [
+
+    		"classes"
+    	]
+
+    },
+    
+
+    "authors": [
+    	{
+    		"name": "Sergio Ramos",
+    		"email":"srdjan.rados90@gmail.com"
+    	}
+
+    ]
+}
